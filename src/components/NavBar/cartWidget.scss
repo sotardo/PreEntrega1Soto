@@ -1,0 +1,14 @@
+.c-widget{
+    display: flex;
+    padding-right: 40px;
+    justify-content: center;
+    align-items: center;
+    
+    .contador {
+        font-size: 22px;
+        padding-top: 10px;
+    }
+    .icon-cart{
+        padding-right: 10px;
+    }
+}
